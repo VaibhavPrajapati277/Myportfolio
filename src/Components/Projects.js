@@ -4,7 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import image1 from '../images/Ecommerce.png'
 import image2 from '../images/stopwatch.png'
 import image3 from '../images/todolist_wide_v3.png'
-import image4 from '../images/p4.png'
+import image4 from '../images/DIvinepuja.png'
 import image5 from '../images/p5.png'
 import image6 from '../images/p6.png'
 
@@ -39,7 +39,7 @@ export default function Projects() {
 
         <Row className='mt-4'>
           <Col lg={4} md={6} sm={12} xs={12}>
-            <Card1 image={image4} view='https://snapshot-twinkles-projects-416cf758.vercel.app/' source='https://github.com/Twinkle-prajapati/Snapshot' title='Snapshot Application' desc='React.js application that integrates with the Unsplash API to provide a seamless image search experience. Users can search for images using various keywords and browse through the results' />
+            <Card1 image={image4} view='https://divine-puja-astro-web-design.vercel.app/' source='https://github.com/VaibhavPrajapati277/Divine_puja_astro-web-design.git' title='Divine Puja Astro - React.js' desc='Built a responsive e-commerce UI for Divine Puja Astro using HTML, CSS, JavaScript, and Bootstrap, featuring an interactive Swiper carousel for product showcase. Designed a clean, mobile-friendly layout with intuitive navigation for a seamless shopping experience.' />
 
           </Col>
           <Col lg={4} md={6} sm={12} xs={12}>
