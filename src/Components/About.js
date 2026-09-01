@@ -73,15 +73,7 @@ export default function About() {
             <h3 className='main-title text-uppercase'>Experience</h3>
           </Col>
           <Col lg={12} className='main'>
-            <Card className='card2'>
-              <div className="info">
-                <div className="role">Part-Time Associate | Syntecxhub  </div>
-                <div className="time">2026 - Present</div>
-              </div>
-
-              <div className="details">Part-Time Associate Developer and actively contributing to full-stack development,
-                debugging, and improving existing product features. </div>
-            </Card>
+            
             <Card className='card2'>
               <div className="info">
                 <div className="role">Full Stack Developer Trainee | Disha Computer Institute </div>
@@ -90,6 +82,14 @@ export default function About() {
 
               <div className="details">Completed React.js frontend training with hands-on project development.
                 Currently expanding skills in backend development and API integration. </div>
+            </Card>
+            <Card className='card2'>
+              <div className="info">
+                <div className="role">Computer Operator | Avoden Pvt.Ltd </div>
+                <div className="time">2024 - 2025</div>
+              </div>
+
+              <div className="details">Managed data entry, reports, and operational records.</div>
             </Card>
             <Card className='card2'>
               <div className="info">

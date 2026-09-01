@@ -5,7 +5,7 @@ import image1 from '../images/Ecommerce.png'
 import image2 from '../images/stopwatch.png'
 import image3 from '../images/todolist_wide_v3.png'
 import image4 from '../images/DIvinepuja.png'
-import image5 from '../images/p5.png'
+import image5 from '../images/notekeeper.png'
 import image6 from '../images/p6.png'
 
 
@@ -43,7 +43,7 @@ export default function Projects() {
 
           </Col>
           <Col lg={4} md={6} sm={12} xs={12}>
-            <Card1 image={image5} view='https://note-keeper-twinkles-projects-416cf758.vercel.app/' source='https://github.com/Twinkle-prajapati/Note_Keeper' title='Note Keeper App' desc='Developed a Note Keeper application using React.js with a user interface built using Bootstrap. The app allows users to create, edit, and manage notes efficiently, featuring a clean and responsive design' />
+            <Card1 image={image5} view='https://note-keeper-react-kappa.vercel.app/' source='https://github.com/VaibhavPrajapati277/Note-keeper-React.git' title='Note Keeper App' desc='Developed a Note Keeper application using React.js with a user interface built using Bootstrap. The app allows users to create, edit, and manage notes efficiently, featuring a clean and responsive design.' />
 
           </Col>
           <Col lg={4} md={6} sm={12} xs={12}>
